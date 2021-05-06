@@ -1,5 +1,7 @@
 # Qwiklabs Implement DevOps in Google Cloud Challenge Lab
 
+Step by Step guide to solve this challenge lab. Can also refer my video for the same: https://youtu.be/MLgc-EkO8Ik
+
 # Task 1: Configure a Jenkins pipeline for continuous deployment to Kubernetes Engine
 
 Cloud Shell                                         

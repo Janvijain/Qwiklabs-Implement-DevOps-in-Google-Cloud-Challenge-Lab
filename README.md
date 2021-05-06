@@ -118,12 +118,12 @@ Copy External IP and paste in new tab
 -> while true; do curl http://$FRONTEND_SERVICE_IP/version; sleep 1; done                                          
 
 
-Check my Progress                                                                     
+Check my Progress   "Note : After completion of all tasks , Task 2 will be completed"                                                                  
 
 # Task 3:Push a Canary deployment to the production namespace                                                 
 
 Cloud Shell                                                          
-
+"Note : You are Performing below commands in above task as well, if task 3 is not complete the run the following commands"
 -> git checkout master                                                  
 -> git merge canary                                            
 -> git push origin master                                       
